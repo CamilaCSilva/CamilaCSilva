@@ -1,4 +1,4 @@
-### Hello, I'm Camila and this ia my GitHub Profile 💻
+# Hi 👋 I'm Camila and this is my GitHub Profile 🚀
 <!--
 **CamilaCSilva/CamilaCSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,14 +9,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ..
 -->
 
-# Somethings about me:
+## Somethings about me:
 - 👩‍💻 I'm a Software Engineer (National Institute Of Telecommunications -INATEL) and an Electronics Technician (Electronics Technical School "Francisco Moreira da Costa" - ETE)
 - 🖼️ I have previous experience with Front-End development and with unit and UI testing
 - 👩‍🏫 I have taught English for teenagers and adults for about one year and a half
-- 👯 I’m looking to collaborataboutthe development of software projects 
-- 🤔 I’m looking forward to learn more about software development and design  
+- 👯 I’m looking to collaborate on the development of software projects 
+- 🤔 I’m looking forward to learn more about Software Development, Design and UX/UI
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
 - 🔧 Tools and Technologies:
   - • Professional experience:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
