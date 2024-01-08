@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ..
 -->
 
-## ℹ️ Somethings about me:
+## Somethings about me ℹ️
 - 👩‍💻 I'm a Software Engineer (National Institute Of Telecommunications -INATEL) and an Electronics Technician (Electronics Technical School "Francisco Moreira da Costa" - ETE)
 - 🖼️ I have previous experience with Front-End development and with unit and UI testing
 - 👩‍🏫 I have taught English for teenagers and adults for about one year and a half
@@ -57,11 +57,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
           
           
-# 📭 Contact 
+# Contact 📭
 <a href = "mailto:camiladecs28@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/camila-silva-053800224" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
           
-# 📊 Github Statistics 
+# Github Statistics 📊
 <div> 
   <a href="https://github.com/CamilaCSilva"> 
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSilva&layout=compact&langs_count=7&theme=dracula"/> 
