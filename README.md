@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ..
 -->
 
-- ## Somethings about me:
+## Somethings about me:
 - 👩‍💻 I'm a Software Engineer (National Institute Of Telecommunications -INATEL) and an Electronics Technician (Electronics Technical School "Francisco Moreira da Costa" - ETE)
 - 🖼️ I have previous experience with Front-End development and with unit and UI testing
 - 👩‍🏫 I have taught English for teenagers and adults for about one year and a half
